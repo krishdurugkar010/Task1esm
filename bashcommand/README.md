@@ -1,1 +1,2 @@
-changes
+# make things easy 
+# do focus
