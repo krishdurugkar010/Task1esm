@@ -1,3 +1,0 @@
-<h1>krish</h1>
-<text> how was a day, good </text>
-m
